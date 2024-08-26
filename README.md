@@ -1,1 +1,1 @@
-Qr code generation using HTML,CSS,Javascript
+QR code generation using HTML,CSS,Javascript
